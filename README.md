@@ -10,7 +10,7 @@ Based in Poland, Lubuskie taking a step from hobby onto professional career.
 🔹Linux🔹Python🔹MySQL🔹Docker🔹
 
 ### Building up a portfolio:
-<a href="https://www.credly.com/badges/9d651dc2-06da-4af8-864d-8026b2bc0112/public_url"><img src="lfcs-linux-foundation-certified-systems-administrator.2.png"></a>
+<a href="https://www.credly.com/badges/9d651dc2-06da-4af8-864d-8026b2bc0112/public_url"><img src="lfcs-linux-foundation-certified-systems-administrator.2.png" width="104px" height="104px"></a>
 
 <!--
 **dhpasta/dhpasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
