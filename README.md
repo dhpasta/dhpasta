@@ -17,4 +17,5 @@ Based in Poland, Lubuskie taking a step from hobby onto professional career.
 
 ### The most proud of [ObliczaKalisza](https://github.com/dhpasta/ObliczaKalisza)
 Still under development project I have created to make my job easier and be able to serve more people.
-A lot of experience gained over **five** editions of event and much more ideas to implement on checklist!
+
+A lot of experience gained over **five** editions of event and much more ideas to implement on list!
