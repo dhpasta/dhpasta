@@ -7,7 +7,7 @@ Based in Poland, Lubuskie taking a step from hobby onto professional career.
 ---
 
 ### I'm into:
-🔹Linux🔹Python🔹MySQL🔹Docker🔹
+🔹Linux🔹Python🔹MySQL🔹Docker🔹eager to learn more...
 
 ### Building up a portfolio:
 <a href="https://www.credly.com/badges/9d651dc2-06da-4af8-864d-8026b2bc0112/public_url"><img src="lfcs-linux-foundation-certified-systems-administrator.2.png" width="66px" height="66px"></a>
