@@ -7,13 +7,15 @@ Based in Poland, Lubuskie taking a step from hobby onto professional career.
 ---
 
 ### I'm into:
-🔹**Linux** - long-time Linux user, certified by Linux Foundation: knowledge of shell scripting, text processing, managing users, disks and processes. I am familiar with git repositories. I can work with Linux man pages and I am a quick learner.
+🔹**Linux** - long-time Linux user, certified by *Linux Foundation*: knowledge of shell scripting, text processing, managing users, disks and processes. I am familiar with git repositories. I can work with Linux man pages and I am a quick learner.
 
-🔹**Python** - is my current language of choice due to simplicity and large amount of resources. I have used Flask Framework in my projects. 
+🔹**Python** - is my current language of choice due to simplicity and large amount of resources. I can create tasks automation, choose and implement libraries for the job. I have used  in my projects i.a., *Flask Framework* and *MySQL* integration. 
 
-🔹**MySQL** - I can design and maintain basic MySQL databases. I would like to expand my skills to more complex projects. 
+🔹**MySQL** - I can design and maintain basic *MySQL* databases. I would like to expand my skills to more complex projects.
 
-🔹**Docker** - I have utilized Docker containers to host my projects. I have a little experience with deployment to AWS products.
+🔹**Docker** - I have utilized Docker containers to host my projects for local testing and public network.
+
+🔹**AWS** - I have some experience with deployment the projects to AWS products. I am learning to create and maintain architecture as code with **Terraform**.
 
 🔹eager to use my knowledge in professional work and learn more technologies developing carrer path.
 
